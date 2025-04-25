@@ -1,4 +1,4 @@
 3
-( \leftrightarrow ( \neg true ) ( \wedge a b ) )
+( p \leftrightarrow ( \neg true ) )
 false
-( \neg ( \rightarrow 3x y5 ) )
+( \neg ( p \rightarrow q ) )

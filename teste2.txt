@@ -1,4 +1,4 @@
 3
 true
-( \neg 3a )
-( \wedge false true )
+( \neg p )
+( p \wedge q )

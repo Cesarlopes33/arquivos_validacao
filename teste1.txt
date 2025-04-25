@@ -1,0 +1,4 @@
+3
+( \leftrightarrow ( \neg true ) ( \wedge a b ) )
+false
+( \neg ( \rightarrow 3x y5 ) )

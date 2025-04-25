@@ -1,0 +1,4 @@
+3
+( \vee 1x ( \neg y9 ) )
+( \rightarrow a1 b2 )
+( \neg \vee 1 2 )
